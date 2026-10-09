@@ -1,0 +1,14 @@
+# Core Google GenAI SDK with native Context Caching support
+google-genai>=2.20.0
+
+# Web Application Framework
+streamlit>=1.30.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Terminal formatting and executive UI
+rich>=13.0.0
+
+# Testing Framework
+pytest>=7.0.0
